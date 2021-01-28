@@ -66,7 +66,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="55.000"
+                            android:text="55000"
                             android:id="@+id/price1"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -148,7 +148,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="55.000"
+                            android:text="55000"
                             android:id="@+id/price2"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -228,7 +228,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="55.000"
+                            android:text="55000"
                             android:id="@+id/price3"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -309,7 +309,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="55.000"
+                            android:text="55000"
                             android:id="@+id/price4"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -390,7 +390,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="55.000"
+                            android:text="55000"
                             android:id="@+id/price5"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -471,7 +471,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="55.000"
+                            android:text="55000"
                             android:id="@+id/price6"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -550,7 +550,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="55.000"
+                            android:text="55000"
                             android:id="@+id/price7"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -631,7 +631,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="55.000"
+                            android:text="55000"
                             android:id="@+id/price8"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -710,7 +710,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="70.000"
+                            android:text="70000"
                             android:id="@+id/price9"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -791,7 +791,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="100.000"
+                            android:text="100000"
                             android:id="@+id/price10"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>

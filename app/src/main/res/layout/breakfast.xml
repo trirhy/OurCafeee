@@ -51,7 +51,6 @@
                         android:layout_marginLeft="20dp"
                         />
 
-
                 </LinearLayout>
             </RelativeLayout>
         </androidx.cardview.widget.CardView>

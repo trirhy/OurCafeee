@@ -220,7 +220,7 @@ public class AddAddress extends AppCompatActivity {
                 msg+="\n\nUser Details : \n\n"+name+"\n"+address+"\n"+phoneNumber+"\n"+emailId+"\n";
                 SmsManager smsManager=SmsManager.getDefault();
                 smsManager.sendTextMessage(number,null,msg,null,null);
-                Toast.makeText(this, "Order Placed", Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "Pemesanan telah dibuat", Toast.LENGTH_LONG).show();
                 Toast.makeText(this, "Thank You For Ordering", Toast.LENGTH_LONG).show();
                 //deleting all data from cart database...
                 for(Cart items:CheckOut.data)
@@ -233,7 +233,7 @@ public class AddAddress extends AppCompatActivity {
             }
             else
             {
-                Toast.makeText(this, "Order Could Not Be Placed", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Pemesanan tidak dapat dibuat", Toast.LENGTH_SHORT).show();
             }
         }
         else

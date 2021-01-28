@@ -57,7 +57,7 @@ public class CheckOut extends AppCompatActivity {
     {
         if(data.isEmpty())
         {
-            Toast.makeText(this, "Keranjang Kosong", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Cart is Empty", Toast.LENGTH_SHORT).show();
         }
         else {
             startActivity(new Intent(this, AddAddress.class));

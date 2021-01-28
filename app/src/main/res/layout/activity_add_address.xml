@@ -101,7 +101,7 @@
                 android:layout_marginTop="20dp"
                 android:textColorHint="#f00"
                 android:inputType="number"
-                android:maxLength="10"
+                android:maxLength="12"
                 android:layout_margin="@dimen/dimen_10"
                 android:id="@+id/phoneNumber1"/>
         </com.google.android.material.textfield.TextInputLayout>

@@ -67,7 +67,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="43.000"
+                            android:text="43000"
                             android:id="@+id/price1"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -149,7 +149,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="43.000"
+                            android:text="43000"
                             android:id="@+id/price2"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -231,7 +231,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="43.000"
+                            android:text="43000"
                             android:id="@+id/price3"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
@@ -313,7 +313,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="43.000"
+                            android:text="43000"
                             android:id="@+id/price4"
                             android:textColor="#0355fa"
                             android:textSize="15dp"/>
