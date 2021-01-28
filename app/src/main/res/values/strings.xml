@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Our Cafeee</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: </string>
+
+    <string name="call">Breakfast</string>
+    <string name="chat">Lunch and Dinner</string>
+    <string name="contact">Pizza</string>
+    <string name="header">MENU</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_homemade_toast">HomemadeToast</string>
+    <string name="large_text">
+        "We are an authentic vegetarian pizzeria, coffee house, and bakery, located in Makassar, Sulawesi Selatan. We use only the freshest and finest ingredients in all our dishes - imported dark chocolate, extra virgin olive oil, and freshly roasted espresso beans.  All our desserts and breads are made fresh daily in our on site bakery.  Our pasta sauces and salad dressings are made from scratch. Our pizza is baked to order on thin crust dough, with homemade sauce and fresh mozzarella cheese. Downstairs we offer recently expanded A/C seating and upstairs we a have brand new roof top garden terrace. Come by and enjoy a coffee on the roof with the birds and a view!"
+    </string>
+    <string name="title_activity_garnole">Garnole</string>
+    <string name="title_activity_eggs">Eggs</string>
+    <string name="title_activity_oat_meal_porridge">OatMealPorridge</string>
+    <string name="title_activity_fresh_fruit_salad">FreshFruitSalad</string>
+    <string name="title_activity_side_order">SideOrder</string>
+    <string name="title_activity_salad">Salad</string>
+    <string name="title_activity_hummus">Hummus</string>
+    <string name="title_activity_soup">Soup</string>
+    <string name="title_activity_side_orders">SideOrders</string>
+    <string name="title_activity_pasta_and_spaghetti">PastaAndSpaghetti</string>
+    <string name="title_activity_pizza">Pizza</string>
+    <string name="title_activity_decadent_dessert">DecadentDessert</string>
+    <string name="title_activity_dessert">Dessert</string>
+
+
+</resources>
